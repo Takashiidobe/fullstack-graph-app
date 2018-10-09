@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-graph-app",
+  "version": "1.0.0",
+  "description": "server-side implementation to fetch data",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "yarn server.js",
+    "dev": "nodemon server.js"
+  }
+}
